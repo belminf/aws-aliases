@@ -1,2 +1,2 @@
 # aws-aliases
-Aliases for AWS
+Requires `awscli` which could be installed with `pip`.
